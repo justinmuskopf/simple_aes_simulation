@@ -8,6 +8,7 @@ Build instructions:
 * `make all` (If you wish to build on your own, view `makefile`'s commands)
 
 Instructions:
+
 	1. Ensure that all provided files are in the same directory:
 		a) file.h
 		b) file.cpp
